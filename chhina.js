@@ -17,4 +17,4 @@ function add333(){console.log("chalk42-333");}
 
 
 function add222(){console.log("master-333");}
->>>>>>> 62ce65b (master 33)
+// >>>>>>> 62ce65b (master 33)
